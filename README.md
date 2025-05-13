@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rachelkim2255@gmail.com**
 
-- ⚡ Fun fact **I'm a huge Formula 1 fan** and **love discovering new music!**
+- ⚡ Fun fact: **I'm a huge Formula 1 fan** and **love discovering new music!**
 
 
 <h3 align="left">Connect with me:</h3>
