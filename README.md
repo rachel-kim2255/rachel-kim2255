@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rachel Kim</h1>
 <h3 align="left">I'm searching for a job as a Data Analyst / Engineer!</h3>
 
-- 🌱 I’m recently completed learning **Data Analysis Post Degree Diploma** program at Douglas College.
+- 🌱 I’m recently completed **Data Analysis Post Degree Diploma** at Douglas College.
 
 - 📫 How to reach me **rachelkim2255@gmail.com**
 
