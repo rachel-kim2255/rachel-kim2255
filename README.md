@@ -3,7 +3,7 @@
 
 - 🌱 I’m recently completed **Data Analysis Post Degree Diploma** at Douglas College.
 
-- 📫 How to reach me **rachelkim2255@gmail.com**
+- 📫 How to reach me: **rachelkim2255@gmail.com**
 
 - ⚡ Fun fact: **I'm a huge Formula 1 fan** and **love discovering new music!**
 
