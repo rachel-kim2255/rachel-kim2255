@@ -31,7 +31,7 @@
 
 <h3 align="left">My Project</h3>
 
----------------------------------------------------------------------------------------------------------------
+---
 
 ## 🍻 IPA vs Lager Review Sentiment Analysis  
 **🛠️ VADER, TextBlob, Praw(Reddit API)**  
@@ -46,9 +46,8 @@ This project performs sentiment analysis on beer reviews collected from Reddit u
 <br>
 🔗 Repository Link: https://github.com/rachel-kim2255/Beer_Sentiment_Anlysis  
 <br>
-<br>
-<br>
 
+---
 ## 📈 Stock Price Prediction Analysis  
 **🛠️ Linear Regression Model, XGBoost, LSTM**   
 <br>
@@ -62,9 +61,24 @@ This project aims to **predict stock prices using QQQ stock dataset**. The analy
 <br>
 🔗 Repository Link: https://github.com/rachel-kim2255/Stock_Price_Prediction/tree/main  
 <br>
+
+---
+## 🦠 Coivd-19 in Canada  
+**🛠️ Tableau, PowerPoint, Python, SQL**  
 <br>
+📎 Rachel Kim and 3 others  
+📚 Team Project  
+📅 Date: 2025.04  
+👩‍💻 Role: Dashboard design, Preparing PowerPoint Deck  
+<br>
+The dashboard addresses our curiosity about “How Canada was affected by Covid 19”. The dashboard highlights key metrics—confirmed cases, confirmed deaths, severity of infections leading to hospitalization, affected occupations and the gender distribution. Additionally, the dashboard explores positivity of recovery trends. This helps us understand the impact of the pandemic across Canada.    
+<br>
+<br>
+🎨 Dashboard Link: https://public.tableau.com/app/profile/ryangwoo.kim/viz/CSIS3860_FinalProject_Group5submission/Dashboard?publish=yes  
+🔗 Repository Link: https://github.com/rachel-kim2255/Data_Visualization_Covid19_Canada  
 <br>
 
+---
 ## 🚙 Vehicle Price Prediction Using Regression Models  
 **🛠️ Linear, Lasso Regression Model**  
 <br>
@@ -77,8 +91,9 @@ This project is a **Regression Model project based on vehicle data**. The goal i
 <br>
 🔗 Repository Link: https://github.com/rachel-kim2255/Machine_Learning
 <br>
-<br>
-<br>
+
+---
+
 ## 🏡 Finding Factors Influencing Vancouver Airbnb Price  
 **🛠️ Linear, Ridge, Lasso Regression Model, Random Forest**  
 <br>
