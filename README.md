@@ -34,6 +34,7 @@
 ---
 
 ## 🍻 IPA vs Lager Review Sentiment Analysis  
+### [Sentiment Analysis]  
 **🛠️ VADER, TextBlob, Praw(Reddit API)**  
 <br>
 📎 Rachel Kim  
@@ -49,6 +50,7 @@ This project performs sentiment analysis on beer reviews collected from Reddit u
 
 ---
 ## 📈 Stock Price Prediction Analysis  
+### [Machine Learning, Data Analysis]  
 **🛠️ Linear Regression Model, XGBoost, LSTM**   
 <br>
 📎 Rachel Kim and 1 other  
@@ -64,6 +66,7 @@ This project aims to **predict stock prices using QQQ stock dataset**. The analy
 
 ---
 ## 🦠 Coivd-19 in Canada  
+### [Data Visualization]  
 **🛠️ Tableau, PowerPoint, Python, SQL**  
 <br>
 📎 Rachel Kim and 3 others  
@@ -80,6 +83,7 @@ The dashboard addresses our curiosity about “How Canada was affected by Covid 
 
 ---
 ## 🚙 Vehicle Price Prediction Using Regression Models  
+### [Machine Learning, Data Analysis]  
 **🛠️ Linear, Lasso Regression Model**  
 <br>
 📎 Rachel Kim  
@@ -95,6 +99,7 @@ This project is a **Regression Model project based on vehicle data**. The goal i
 ---
 
 ## 🏡 Finding Factors Influencing Vancouver Airbnb Price  
+### [Machine Learning, Data Analysis]  
 **🛠️ Linear, Ridge, Lasso Regression Model, Random Forest**  
 <br>
 📎 Rachel Kim and 3 others  
