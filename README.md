@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Rachel Kim</h1>
+<h1 align="left">Rachel Kim</h1>
 <h3 align="left">I'm searching for a job as a Data Analyst / Engineer!</h3>
 
 - 🌱 I’m recently completed **Data Analysis Post Degree Diploma** at Douglas College.
