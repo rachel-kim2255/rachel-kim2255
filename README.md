@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/aspenrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aspenrr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rachel-kim2255/?locale=en_us" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/rachel-kim2255/?locale=en_us" height="30" width="30" /></a>
 </p>
 
