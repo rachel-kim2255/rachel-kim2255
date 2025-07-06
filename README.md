@@ -32,8 +32,21 @@
 
 ---
 
-## 🍻 IPA vs Lager Review Sentiment Analysis  
-### [Sentiment Analysis]  
+## 🛒 [SQL] E-commerce Customer Behaivor Analysis  
+**🛠️ SQLite, Python**  
+📎 Rachel Kim  
+📅 Date: 2025.07 (In Progress, More insights and visualizations to be added. -2025.07.04)  
+📚 Individual Project
+<br>
+This project is an exploratory analysis of customer spending and engagement patterns in a Brazilian e-commerce marketplace, conducted using SQL and Python.
+The goal is to identify high-value customers, understand spending distribution, and uncover reactivation opportunities through behavioral metrics.  
+<br>
+<br>
+🔗 Repository Link: https://github.com/rachel-kim2255/SQL_customer_behavior_analysis  
+<br>
+
+---
+## 🍻 [NLP/Sentiment Analysis] IPA vs Lager Review Sentiment Analysis  
 **🛠️ VADER, TextBlob, Praw(Reddit API)**  
 <br>
 📎 Rachel Kim  
