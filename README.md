@@ -47,7 +47,7 @@ The goal is to identify high-value customers, understand spending distribution, 
 
 ---
 
-## 💬 Text Analysis for Caregiver Hiring MVP Development  
+## 💬 [Text Analysis] User Pain Point Analysis for Caregiver Hiring MVP Development 
 **🛠 Python (PRAW, pandas, text analysis)**  
 📎 Rachel Kim  
 📅 Date: 2025.08 (Completed - 2025.08.05)  
