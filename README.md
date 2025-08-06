@@ -46,6 +46,24 @@ The goal is to identify high-value customers, understand spending distribution, 
 <br>
 
 ---
+
+## 💬 Text Analysis for Caregiver Hiring MVP Development  
+**🛠 Python (PRAW, pandas, text analysis)**  
+📎 Rachel Kim  
+📅 Date: 2025.08 (Completed - 2025.08.05)  
+📚 Hackathon Project  
+<br>
+As part of an early-stage MVP ideation for a caregiver hiring platform, this project explores Reddit discussions related to caregiving to uncover key user pain points, unmet needs, and regional demand patterns.
+
+Using web scraping and text analysis techniques, I collected and analyzed posts from both caregiver-focused subreddits and Canada-specific communities. The goal was to extract raw, unfiltered insights to guide product direction and validate market needs for CareCarry, a caregiver hiring and tax compliance platform. Key methods include keyword filtering, sentiment analysis, and regional segmentation.
+<br>
+<br>
+🔗 Repository Link: https://github.com/rachel-kim2255/Caregiver-Hiring-MVP-Development  
+<br>
+
+
+---
+
 ## 🍻 [NLP/Sentiment Analysis] IPA vs Lager Review Sentiment Analysis  
 **🛠️ VADER, TextBlob, Praw(Reddit API)**  
 <br>
