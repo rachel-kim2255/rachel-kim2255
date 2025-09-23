@@ -60,7 +60,10 @@ Using web scraping and text analysis techniques, I collected and analyzed posts 
 <br>
 🔗 Repository Link: https://github.com/rachel-kim2255/Caregiver-Hiring-MVP-Development  
 <br>
-<font color ="green"><b>🚀 Final Launch Product</b></font>
+<font color ="green"><b>🚀 Final Launch Product</b></font>  
+**This analysis shaped the functional framework of CareCarry, culminating in the MVP prototype.**  
+**You can explore the demo video below.**  
+<a href="https://youtu.be/Ac1-ltNh2TQ?si=oRWcn3tk55lnJAPi" target="_blank"><b>▶ Watch CareCarry MVP Demo</b></a>  
 > URL: https://care-carry.forestp.dev/  
 > How To Use Video:  
 > - For Family: https://youtu.be/MS0Q-C0bQ3E
