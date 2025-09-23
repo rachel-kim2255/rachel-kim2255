@@ -60,7 +60,13 @@ Using web scraping and text analysis techniques, I collected and analyzed posts 
 <br>
 🔗 Repository Link: https://github.com/rachel-kim2255/Caregiver-Hiring-MVP-Development  
 <br>
-
+<font color ="green"><b>🚀 Final Launch Product</b></font>
+> URL: https://care-carry.forestp.dev/  
+> How To Use Video:  
+> - For Family: https://youtu.be/MS0Q-C0bQ3E
+> - For Caregiver: https://youtu.be/sMWO_gVrBB4
+> - Tax Compliance: https://youtu.be/xmTadzYg8F0
+<br>
 
 ---
 
@@ -76,13 +82,6 @@ This project performs sentiment analysis on beer reviews collected from Reddit u
 <br>
 <br>
 🔗 Repository Link: https://github.com/rachel-kim2255/Beer_Sentiment_Anlysis  
-<br>
-<font color ="green"><b>🚀 Final Launch Product</b></font>
-> URL: https://care-carry.forestp.dev/  
-> How To Use Video:  
-> - For Family: https://youtu.be/MS0Q-C0bQ3E
-> - For Caregiver: https://youtu.be/sMWO_gVrBB4
-> - Tax Compliance: https://youtu.be/xmTadzYg8F0
 <br>
 
 ---
