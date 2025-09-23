@@ -1,5 +1,5 @@
 <h1 align="left">Rachel Kim</h1>
-<h3 align="left">I'm currently seeking opportunities in Data Analytics or Data Engineering, with a strong interest in business intelligence and turning data into actionable insights.</h3>
+<h3 align="left">I'm currently seeking opportunities in Data Analytics or Business Intelligence, with a strong interest in business intelligence and turning data into actionable insights.</h3>
 
 - 🌱 I recently completed a **Data Analytics** program at Douglas College.
 
