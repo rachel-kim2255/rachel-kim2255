@@ -46,12 +46,13 @@ The goal is to identify high-value customers, understand spending distribution, 
 <br>
 
 ---
-
+  
 ## 💬 [Text Analysis] User Pain Point Analysis for Caregiver Hiring MVP Development 
 **🛠 Python (PRAW, pandas, text analysis)**  
 📎 Rachel Kim  
 📅 Date: 2025.08 (Completed - 2025.08.05)  
-📚 Hackathon Project  
+📚 Hackathon Project   
+🏆 2nd Place Winner at the KATEC Idea Market Hackathon  
 <br>
 As part of an early-stage MVP ideation for a caregiver hiring platform, this project explores Reddit discussions related to caregiving to uncover key user pain points, unmet needs, and regional demand patterns.
 
