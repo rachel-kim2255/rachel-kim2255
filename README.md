@@ -35,7 +35,7 @@
 ## 🛒 [SQL] E-commerce Customer Behaivor Analysis  
 **🛠️ SQLite, Python**  
 📎 Rachel Kim  
-📅 Date: 2025.07 (In Progress, More insights and visualizations to be added. -2025.07.04)  
+📅 Date: 2025.07 (In Progress, More insights and visualizations to be added. -2025.09.29)  
 📚 Individual Project
 <br>
 This project is an exploratory analysis of customer spending and engagement patterns in a Brazilian e-commerce marketplace, conducted using SQL and Python.
