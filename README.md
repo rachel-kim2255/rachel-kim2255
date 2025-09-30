@@ -32,17 +32,17 @@
 
 ---
 
-## 🛒 [SQL] E-commerce Customer Behaivor Analysis  
-**🛠️ SQLite, Python**  
+## 🛒 [SQL/Python] E-commerce Customer Behavior & RFM Segmentation  
+**🛠️ SQLite, Python (pandas, matplotlib, seaborn)**  
 📎 Rachel Kim  
-📅 Date: 2025.07 (In Progress, More insights and visualizations to be added. -2025.09.29)  
-📚 Individual Project
+📅 Date: 2025.07 – 2025.09 (Completed)  
+📚 Individual Project  
 <br>
-This project is an exploratory analysis of customer spending and engagement patterns in a Brazilian e-commerce marketplace, conducted using SQL and Python.
-The goal is to identify high-value customers, understand spending distribution, and uncover reactivation opportunities through behavioral metrics.  
+This project analyzes customer behavior in a Brazilian e-commerce marketplace using SQL and Python, with a focus on **RFM (Recency, Frequency, Monetary) segmentation**.  
+The analysis identifies high-value and at-risk customers, evaluates revenue concentration, and proposes actionable strategies such as **VIP retention, reactivation campaigns, and upselling opportunities**.  
 <br>
 <br>
-🔗 Repository Link: https://github.com/rachel-kim2255/SQL_customer_behavior_analysis  
+🔗 Repository Link: [GitHub – SQL_ecommerce_RFM_analysis](https://github.com/rachel-kim2255/SQL_ecommerce_RFM_analysis)  
 <br>
 
 ---
@@ -59,7 +59,7 @@ As part of an early-stage MVP ideation for a caregiver hiring platform, this pro
 Using web scraping and text analysis techniques, I collected and analyzed posts from both caregiver-focused subreddits and Canada-specific communities. The goal was to extract raw, unfiltered insights to guide product direction and validate market needs for CareCarry, a caregiver hiring and tax compliance platform. Key methods include keyword filtering, sentiment analysis, and regional segmentation.
 <br>
 <br>
-🔗 Repository Link: https://github.com/rachel-kim2255/Caregiver-Hiring-MVP-Development  
+🔗 Repository Link: [Github - Caregiver-Hiring-MVP-Development](https://github.com/rachel-kim2255/Caregiver-Hiring-MVP-Development)  
 <br>
 <font color ="green"><b>🚀 Final Launch Product</b></font>  
 **This analysis shaped the functional framework of CareCarry, culminating in the MVP prototype.**  
