@@ -28,6 +28,13 @@
 </p>
 <br>
 
+<h3 align="left">📈 SQL-LeetCode Progress Log</h3>
+<!-- START SQL PROGRESS -->
+<!-- (이 영역은 자동으로 업데이트됩니다) -->
+<!-- END SQL PROGRESS -->
+
+<br>
+
 <h3 align="left">My Project</h3>
 
 ---
