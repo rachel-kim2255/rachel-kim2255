@@ -32,8 +32,6 @@
 <h3 align="left">📈 SQL-LeetCode Progress Log</h3>
 
 <!-- START SQL PROGRESS -->
-<!-- (이 영역은 자동으로 업데이트됩니다, 수정하지 마세요) -->
-<!-- END SQL PROGRESS -->
 
 
 
@@ -144,3 +142,18 @@ This analysis aims to extract insights from public data provided by Airbnb, whic
 🔗 Repository Link: [Machine_Learning](https://github.com/rachel-kim2255/Machine_Learning)
 
 <br><br>
+<!-- START SQL PROGRESS -->
+
+<h3 align="left">📈 SQL-LeetCode Progress Log</h3>
+
+| Date | Problems Added | Total |
+|------|----------------|--------|
+| 2025-10-06 | 🟢 3 | 3 |
+| 2025-10-10 | 🟢 7 | 10 |
+| 2025-10-11 | 🟢 2 | 12 |
+
+> **🎯 Total:** 12 problems solved
+
+🔗 [View full repository → Leetcode-SQL](https://github.com/rachel-kim2255/Leetcode-SQL)
+
+<!-- END SQL PROGRESS -->
