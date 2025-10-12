@@ -50,8 +50,8 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 | Date | Problems Added | Total |
 |------|----------------|--------|
 | 2025-10-11 | 🟢 1 | 1 |
-| 2025-10-12 | 🟢 4 | 5 |
+| 2025-10-12 | 🟢 5 | 6 |
 
-> **🎯 Total:** 5 problems solved
+> **🎯 Total:** 6 problems solved
 
 🔗 [View full repository → Leetcode-Python](https://github.com/rachel-kim2255/Leetcode-Python)
