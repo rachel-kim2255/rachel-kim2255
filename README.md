@@ -31,7 +31,6 @@
 <h3 align="left">📈 SQL-LeetCode Progress Log</h3>
 
 <!-- START SQL PROGRESS -->
-
 <h3 align="left">📈 SQL-LeetCode Progress Log</h3>
 
 | Date | Problems Added | Total |
@@ -43,10 +42,8 @@
 > **🎯 Total:** 14 problems solved
 
 🔗 [View full repository → Leetcode-SQL](https://github.com/rachel-kim2255/Leetcode-SQL)
-
 <!-- END SQL PROGRESS -->
 <!-- START SQL PROGRESS -->
-
 <h3 align="left">📈 SQL-LeetCode Progress Log</h3>
 
 | Date | Problems Added | Total |
@@ -58,5 +55,4 @@
 > **🎯 Total:** 14 problems solved
 
 🔗 [View full repository → Leetcode-SQL](https://github.com/rachel-kim2255/Leetcode-SQL)
-
 <!-- END SQL PROGRESS -->
