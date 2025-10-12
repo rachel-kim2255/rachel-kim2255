@@ -45,11 +45,11 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 <br>
 
 <!-- START PYTHON PROGRESS -->
-<h3 align="left">📈 Python-LeetCode Progress Log</h3>
+## 📈 Progress Log
+| Date | Problems Added | Total |
+|------|----------------|--------|
 
-
-
-🔗 [View full repository → Leetcode-Python](https://github.com/rachel-kim2255/Leetcode-Python)
+> **🎯 Total:** 0 problems solved
 <!-- END SQL PROGRESS -->
 
 <br>
