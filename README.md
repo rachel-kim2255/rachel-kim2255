@@ -54,9 +54,10 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 
 <br>
 
+---
+
 <h1 align="left">My Project</h3>
 
----
 
 ## 🛒 [SQL/Python] E-commerce Customer Behavior & RFM Segmentation  
 **🛠️ SQLite, Python (pandas, matplotlib, seaborn)**  
