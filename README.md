@@ -52,7 +52,9 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 🔗 [View full repository → Leetcode-Python](https://github.com/rachel-kim2255/Leetcode-Python)
 <!-- END PYTHON PROGRESS -->
 
-<h3 align="left">My Project</h3>
+<br>
+
+<h1 align="left">My Project</h3>
 
 ---
 
