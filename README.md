@@ -47,7 +47,9 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 <!-- START PYTHON PROGRESS -->
 <h3 align="left">📈 Python-LeetCode Progress Log</h3>
 
-🔗 [View full repository → Leetcode-Python] (https://github.com/rachel-kim2255/Leetcode-Python)
+
+
+🔗 [View full repository → Leetcode-Python](https://github.com/rachel-kim2255/Leetcode-Python)
 <!-- END PYTHON PROGRESS -->
 
 <h3 align="left">My Project</h3>
