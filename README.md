@@ -45,7 +45,7 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 <br>
 
 <!-- START PYTHON PROGRESS -->
-<h3 align="left">📈 Python-LeetCode Progress Log</h3>
+<h3 align="left">🐍 Python-LeetCode Progress Log</h3>
 
 | Date | Problems Added | Total |
 |------|----------------|--------|
