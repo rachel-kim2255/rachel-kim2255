@@ -35,10 +35,11 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 |------|----------------|--------|
 | 2025-10-06 | 🟢 3 | 3 |
 | 2025-10-10 | 🟢 7 | 10 |
-| 2025-10-11 | 🟢 4 | 14 |
+| 2025-10-11 | 🟢 5 | 15 |
 | 2025-10-13 | 🟢 3 | 18 |
+| 2025-11-03 | 🟢 1 | 19 |
 
-> **🎯 Total:** 18 problems solved
+> **🎯 Total:** 19 problems solved
 
 🔗 [View full repository → Leetcode-SQL](https://github.com/rachel-kim2255/Leetcode-SQL)
 <!-- END SQL PROGRESS -->
