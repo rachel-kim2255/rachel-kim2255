@@ -66,9 +66,9 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 | 2025-11-12 | 🟢 4 | 23 |
 | 2025-11-14 | 🟢 2 | 25 |
 | 2025-11-30 | 🟢 6 | 31 |
-| 2025-12-01 | 🟢 1 | 32 |
+| 2025-12-01 | 🟢 2 | 33 |
 
-> **🎯 Total:** 27 problems solved
+> **🎯 Total:** 28 problems solved
 
 🔗 [View full repository → Leetcode-Python](https://github.com/rachel-kim2255/Leetcode-Python)
 <!-- END PYTHON PROGRESS -->
