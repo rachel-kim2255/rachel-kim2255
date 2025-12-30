@@ -124,6 +124,21 @@ As part of an early-stage MVP ideation for a caregiver hiring platform, this pro
 > - Tax Compliance: https://youtu.be/xmTadzYg8F0  
 
 ---
+## 📊 [Visualization] Sales, Customer Dashboard
+**🛠️ Tableau**  
+- **Goal**: Developed a comprehensive Tableau dashboard to analyze YoY sales performance and customer behavioral trends.  
+- **Sales Dashboard**: Focused on KPI monitoring (Sales, Profit, Quantity) with monthly/weekly trend analysis and product subcategory comparisons.  
+- **Customer Dashboard**: Analyzed customer segments, loyalty (distribution by order count), and identified top-tier profitable customers.  
+- **Key Features**: Integrated dynamic year filters, seamless dashboard navigation, and multi-dimensional filters (Category, Location) for interactive data exploration.
+
+📎 Rachel Kim  
+📅 Date: 2025.12 – 2025.12 (Completed)  
+📚 Individual Project
+
+👉 **[Dashboard Link](https://public.tableau.com/views/ProjectSalesCustmomerDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**: Click here to explore the interactive dashboard!  
+🔗 Repository Link: [Github - Sales_Customer_Dashboard](https://github.com/rachel-kim2255/Sales_Customer_Dashboard)
+
+---
 
 ## 🍻 [NLP/Sentiment Analysis] IPA vs Lager Review Sentiment Analysis  
 **🛠️ VADER, TextBlob, Praw (Reddit API)**  
