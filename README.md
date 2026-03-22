@@ -99,6 +99,17 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 
 <h1 align="left">My Project</h3>
 
+## 🛍️ [SQL/Python/GA4] Google Merchandise Store: Full-Funnel E-commerce Analysis
+**🛠️ SQL (BigQuery), Python, Google Analytics 4**  
+📎 Rachel Kim  
+📅 Date: 2026.03 (Completed)  
+📚 Individual Project
+
+This project analyzes user behavior and marketing performance of the Google Merchandise Store using GA4 and BigQuery. The analysis covers the full customer journey — from channel acquisition and purchase funnel drop-off, to device behavior, new vs returning user retention, day-of-week purchase patterns, and product category performance. Key findings include CPC's consistently poor ROI across all metrics, referral's compounding value as a high-quality channel, and Drinkware's untapped conversion potential despite leading in browse volume.
+
+🔗 Repository Link: [Github - Full-Funnel_E-commerce_Analysis](https://github.com/rachel-kim2255/Full-Funnel_E-commerce_Analysis)
+
+---
 
 ## 🛒 [SQL/Python] E-commerce Customer Behavior & RFM Segmentation  
 **🛠️ SQLite, Python (pandas, matplotlib, seaborn)**  
