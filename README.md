@@ -1,8 +1,9 @@
 <h1 align="left">Rachel Kim</h1>
 <h3 align="left">
-  
-Marketing-rooted data analyst with a background in campaign analytics and consumer behavior.  
-I turn messy data into insights that actually inform marketing decisions.
+
+Data analyst with a background in marketing and consumer behavior.  
+I enjoy finding patterns in messy data and turning them into decisions that actually matter.  
+
 </h3>
 
 - 🌱 I completed a **Data Analytics** program at Douglas College and have a Bachelor's degree in Advertising & Public Relations.
