@@ -1,11 +1,10 @@
 <h1 align="left">Rachel Kim</h1>
 <h3 align="left">
-I'm currently seeking opportunities in Data Analytics or Business Intelligence, with a strong interest in business intelligence and turning data into actionable insights.
+Marketing-rooted data analyst with a background in campaign analytics and consumer behavior. I turn messy data into insights that actually inform marketing decisions.
 </h3>
 
-- 🌱 I recently completed a **Data Analytics** program at Douglas College.  
+- 🌱 I completed a **Data Analytics** program at Douglas College and have a Bachelor's degree in Advertising & Public Relations.
 - 📫 How to reach me: **rachelkim2255@gmail.com**  
-- ⚡ Fun fact: **I'm a huge Formula 1 fan** and **love discovering new music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,10 +17,12 @@ I'm currently seeking opportunities in Data Analytics or Business Intelligence, 
 <p>
 
 | Category | Tools & Technologies |
-|--------------------|-------------------------------------|
-| Programming | Python, JavaScript |
+|---|---|
+| Programming | Python (Pandas, NumPy, Scikit-learn), R, JavaScript |
 | Database | SQL (MySQL, SSMS), MongoDB |
-| Data Visualization | Tableau, Power BI |
+| Data Visualization | Tableau, Power BI, Looker Studio |
+| Analytics & Marketing | GA4, A/B Testing, Customer Segmentation, Campaign Performance Analysis |
+| Web & Tracking | UTM tracking, Data tagging, Data scraping |
 | Tools & IDE | VS Code, Jupyter Notebook |
 | Office | Excel, PowerPoint, Word |
 
