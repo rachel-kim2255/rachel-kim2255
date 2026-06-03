@@ -1,6 +1,8 @@
 <h1 align="left">Rachel Kim</h1>
 <h3 align="left">
-Marketing-rooted data analyst with a background in campaign analytics and consumer behavior. I turn messy data into insights that actually inform marketing decisions.
+  
+Marketing-rooted data analyst with a background in campaign analytics and consumer behavior.  
+I turn messy data into insights that actually inform marketing decisions.
 </h3>
 
 - 🌱 I completed a **Data Analytics** program at Douglas College and have a Bachelor's degree in Advertising & Public Relations.
@@ -29,72 +31,6 @@ Marketing-rooted data analyst with a background in campaign analytics and consum
 </p>
 <br>
 
-<!-- START SQL PROGRESS -->
-<h3 align="left">📈 SQL-LeetCode Progress Log</h3>
-
-| Date | Problems Added | Total |
-|------|----------------|--------|
-| 2025-10-06 | 🟢 3 | 3 |
-| 2025-10-10 | 🟢 7 | 10 |
-| 2025-10-11 | 🟢 5 | 15 |
-| 2025-10-13 | 🟢 3 | 18 |
-| 2025-11-03 | 🟢 3 | 21 |
-| 2025-11-07 | 🟢 5 | 26 |
-| 2025-11-08 | 🟢 3 | 29 |
-| 2025-11-15 | 🟢 2 | 31 |
-| 2025-11-19 | 🟢 3 | 34 |
-| 2025-11-21 | 🟢 1 | 35 |
-| 2025-11-29 | 🟢 3 | 38 |
-| 2025-12-25 | 🟢 2 | 40 |
-| 2025-12-26 | 🟢 2 | 42 |
-| 2025-12-28 | 🟢 2 | 44 |
-| 2025-12-29 | 🟢 3 | 47 |
-| 2026-03-02 | 🟢 5 | 52 |
-| 2026-03-03 | 🟢 1 | 53 |
-| 2026-03-07 | 🟢 2 | 55 |
-| 2026-03-09 | 🟢 3 | 58 |
-| 2026-03-11 | 🟢 1 | 59 |
-| 2026-03-12 | 🟢 1 | 60 |
-| 2026-03-13 | 🟢 1 | 61 |
-| 2026-03-21 | 🟢 2 | 63 |
-
-> **🎯 Total:** 63 problems solved
-
-🔗 [View full repository → Leetcode-SQL](https://github.com/rachel-kim2255/Leetcode-SQL)
-<!-- END SQL PROGRESS -->
-
-<br>
-
-<!-- START PYTHON PROGRESS -->
-<h3 align="left">🐍 Python-LeetCode Progress Log</h3>
-
-| Date | Problems Added | Total |
-|------|----------------|--------|
-| 2025-10-11 | 🟢 1 | 1 |
-| 2025-10-12 | 🟢 6 | 7 |
-| 2025-10-14 | 🟢 1 | 8 |
-| 2025-10-20 | 🟢 4 | 12 |
-| 2025-11-10 | 🟢 8 | 20 |
-| 2025-11-11 | 🟢 3 | 23 |
-| 2025-11-12 | 🟢 6 | 29 |
-| 2025-11-14 | 🟢 2 | 31 |
-| 2025-11-30 | 🟢 6 | 37 |
-| 2025-12-01 | 🟢 14 | 51 |
-| 2025-12-02 | 🟢 10 | 61 |
-| 2025-12-03 | 🟢 7 | 68 |
-| 2025-12-04 | 🟢 2 | 70 |
-| 2025-12-05 | 🟢 13 | 83 |
-| 2025-12-09 | 🟢 3 | 86 |
-| 2026-03-03 | 🟢 2 | 88 |
-| 2026-03-07 | 🟢 1 | 89 |
-| 2026-03-11 | 🟢 2 | 91 |
-
-> **🎯 Total:** 59 problems solved
-
-🔗 [View full repository → Leetcode-Python](https://github.com/rachel-kim2255/Leetcode-Python)
-<!-- END PYTHON PROGRESS -->
-
-<br>
 
 ---
 
@@ -229,4 +165,74 @@ This analysis aims to extract insights from public data provided by Airbnb, whic
 
 🔗 Repository Link: [Machine_Learning](https://github.com/rachel-kim2255/Machine_Learning)
 
-<br><br>
+<br>
+<br>
+
+---
+
+
+<!-- START SQL PROGRESS -->
+<h3 align="left">📈 SQL-LeetCode Progress Log</h3>
+
+| Date | Problems Added | Total |
+|------|----------------|--------|
+| 2025-10-06 | 🟢 3 | 3 |
+| 2025-10-10 | 🟢 7 | 10 |
+| 2025-10-11 | 🟢 5 | 15 |
+| 2025-10-13 | 🟢 3 | 18 |
+| 2025-11-03 | 🟢 3 | 21 |
+| 2025-11-07 | 🟢 5 | 26 |
+| 2025-11-08 | 🟢 3 | 29 |
+| 2025-11-15 | 🟢 2 | 31 |
+| 2025-11-19 | 🟢 3 | 34 |
+| 2025-11-21 | 🟢 1 | 35 |
+| 2025-11-29 | 🟢 3 | 38 |
+| 2025-12-25 | 🟢 2 | 40 |
+| 2025-12-26 | 🟢 2 | 42 |
+| 2025-12-28 | 🟢 2 | 44 |
+| 2025-12-29 | 🟢 3 | 47 |
+| 2026-03-02 | 🟢 5 | 52 |
+| 2026-03-03 | 🟢 1 | 53 |
+| 2026-03-07 | 🟢 2 | 55 |
+| 2026-03-09 | 🟢 3 | 58 |
+| 2026-03-11 | 🟢 1 | 59 |
+| 2026-03-12 | 🟢 1 | 60 |
+| 2026-03-13 | 🟢 1 | 61 |
+| 2026-03-21 | 🟢 2 | 63 |
+
+> **🎯 Total:** 63 problems solved
+
+🔗 [View full repository → Leetcode-SQL](https://github.com/rachel-kim2255/Leetcode-SQL)
+<!-- END SQL PROGRESS -->
+
+<br>
+
+<!-- START PYTHON PROGRESS -->
+<h3 align="left">🐍 Python-LeetCode Progress Log</h3>
+
+| Date | Problems Added | Total |
+|------|----------------|--------|
+| 2025-10-11 | 🟢 1 | 1 |
+| 2025-10-12 | 🟢 6 | 7 |
+| 2025-10-14 | 🟢 1 | 8 |
+| 2025-10-20 | 🟢 4 | 12 |
+| 2025-11-10 | 🟢 8 | 20 |
+| 2025-11-11 | 🟢 3 | 23 |
+| 2025-11-12 | 🟢 6 | 29 |
+| 2025-11-14 | 🟢 2 | 31 |
+| 2025-11-30 | 🟢 6 | 37 |
+| 2025-12-01 | 🟢 14 | 51 |
+| 2025-12-02 | 🟢 10 | 61 |
+| 2025-12-03 | 🟢 7 | 68 |
+| 2025-12-04 | 🟢 2 | 70 |
+| 2025-12-05 | 🟢 13 | 83 |
+| 2025-12-09 | 🟢 3 | 86 |
+| 2026-03-03 | 🟢 2 | 88 |
+| 2026-03-07 | 🟢 1 | 89 |
+| 2026-03-11 | 🟢 2 | 91 |
+
+> **🎯 Total:** 59 problems solved
+
+🔗 [View full repository → Leetcode-Python](https://github.com/rachel-kim2255/Leetcode-Python)
+<!-- END PYTHON PROGRESS -->
+
